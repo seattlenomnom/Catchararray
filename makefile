@@ -2,4 +2,4 @@
 #
 #
 catchararray : catchararray.c
-	gcc -g catchararry.c -o ./Build/catchararray
+	gcc -g catchararray.c -o ./Build/catchararray
